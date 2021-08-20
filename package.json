@@ -1,0 +1,27 @@
+{
+  "name": "bk-eng-309",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "bk-eng-309": "bin/bk-eng-309.js"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunokrebs/buggy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunokrebs/buggy/issues"
+  },
+  "homepage": "https://github.com/brunokrebs/buggy#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {}
+}
